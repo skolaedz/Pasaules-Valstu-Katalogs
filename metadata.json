@@ -1,0 +1,5 @@
+{
+  "name": "Pasaules Valstu Katalogs",
+  "description": "React un TypeScript aplikācija, kas izmanto REST Countries API, lai parādītu informāciju par pasaules valstīm. Ietver autorizācijas simulāciju, meklēšanu un filtrēšanu.",
+  "requestFramePermissions": []
+}
